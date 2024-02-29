@@ -1,0 +1,17 @@
+@prefix : <urn:example:>.
+
+
+  # ( 0 0) :getAckermann true.
+  # ( 0 6) :getAckermann true.
+  #  (1 2) :getAckermann true.
+  #  (1 7) :getAckermann true.
+  #  (2 2) :getAckermann true.
+  #  (2 9) :getAckermann true.
+  #  (3 4) :getAckermann true.
+  #  (3 14) :getAckermann true.
+  #  (4 0) :getAckermann true.
+  #  (4 1) :getAckermann true.
+    (4 2) :getAckermann true.
+  #  (5 0) :getAckermann true.
+
+ 
